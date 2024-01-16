@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @xtrafinga
+- I'm currently studying a post graduate CS course  at Goldsmiths UoL
+- 👀 I’m interested in .... IOT, raspberry PI, Ardunio. And Video and LED control - In the entertainment industry.
+- 🌱 I’m currently learning ... Python, Django, Javascript, CSS, HTML, Linux
+- 💞️ I’m looking to collaborate on ... 
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+xtrafinga/xtrafinga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
